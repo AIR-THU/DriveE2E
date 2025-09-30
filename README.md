@@ -1,4 +1,4 @@
-# DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving with Real2Sim and Offline Infrastructure Cooperation
+# DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving with Real-to-Simulation
 
 </div>
 
@@ -38,9 +38,9 @@ Please consider citing our paper if the project helps your research with the fol
 
 ```bibtex
 @inproceedings{yu2025_drivee2e,
- title={DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving with Real2Sim and Offline Infrastructure Cooperation}, 
+ title={DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving with Real-to-Simulation}, 
  author={Haibao Yu and Wenxian Yang and Ruiyang Hao and Chuanye Wang and Jiaru Zhong and Ping Luo and Zaiqing Nie},
- booktitle={},
+ booktitle={https://arxiv.org/abs/2509.23922},
  year={2025}
 }
 ```
